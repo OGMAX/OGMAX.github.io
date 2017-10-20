@@ -9,4 +9,4 @@
   ```shell
     git config --global user.email "email"
   ```
-  !(git配置截图)[img/git-config-username-email.png]
+  ![git配置截图](./img/git-config-username-emai./l.png)
