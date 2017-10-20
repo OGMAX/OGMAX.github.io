@@ -9,4 +9,4 @@
   ```shell
     git config --global user.email "email"
   ```
-  ![git配置截图](./img/git-config-username-emai./l.png)
+  ![git配置截图](https://github.com/OGMAX/OGMAX.github.io/blob/master/git-study-note/img/git-config-username-email.png)
